@@ -1,9 +1,13 @@
 # DISMATH_Project0.0_JarenOfficial
 
-Here are the screen shots of my talking simulator app!
+<i>Here are the screen shots of my talking simulator app!</i>
 
-- INTRO SCREEN & Blocks
+- <b>INTRO SCREEN & Blocks</b>
 ![Screen 1](https://raw.githubusercontent.com/JarenOfficial/DISMATH_Project0.0_JarenOfficial/master/screen.1.png)
 ![Block 1](https://raw.githubusercontent.com/JarenOfficial/DISMATH_Project0.0_JarenOfficial/master/block.1.png)
 
-- MAIN SCREEN & Blocks
+- <b>MAIN SCREEN & Blocks</b>
+![Screen 2](https://raw.githubusercontent.com/JarenOfficial/DISMATH_Project0.0_JarenOfficial/master/screen.2.png)
+![Block 2](https://raw.githubusercontent.com/JarenOfficial/DISMATH_Project0.0_JarenOfficial/master/block.2.png)
+
+-Test on phone (<b>NOT MY PHONE BTW</b>)<p>Videos are on README.md</p>
